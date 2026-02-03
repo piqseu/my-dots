@@ -15,3 +15,6 @@
 
 # Screenshots
 ![desktop1](/DRK-based/Screenshots/desktop1.png)
+
+## Some steps might be missing but cba to properly set it all up for now
+i'll probably make a script later
