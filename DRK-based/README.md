@@ -2,6 +2,7 @@
 - Install [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
 - Install [Windhawk](https://windhawk.net/) and enable Resource Redirect
 - Install [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter)
+- Install [YASB](https://github.com/amnweb/yasb)
 - Copy everything inside Sys-files to C:\
 - Copy everything inside User-files to your User Profile Folder (%USERPROFILE%)
 - Copy the contents of `windhawk-resource-redirect-config.json` to the Advanced tab on Resource Redirect
