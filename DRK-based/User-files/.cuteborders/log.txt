@@ -1,0 +1,5 @@
+[ERROR] Failed to retrieve accent color: 0x80070002)
+[ERROR] Failed to retrieve accent color: 0x80070002)
+[ERROR] Failed to retrieve accent color: 0x80070002)
+[ERROR] Failed to build tray icon
+[DEBUG] OsError(Os { code: -2147467259, kind: Uncategorized, message: "Unspecified error" })

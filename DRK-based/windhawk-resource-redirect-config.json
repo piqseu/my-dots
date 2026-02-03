@@ -1,0 +1,8 @@
+{
+  "iconTheme": "",
+  "themePaths[0]": "C:\\windhawk\\redirect\\macindows-night",
+  "redirectionResourcePaths[0].original": "*shell32.dll",
+  "redirectionResourcePaths[0].redirect": "C:\\windhawk\\redirect\\shell32.dll",
+  "allResourceRedirect": 0,
+  "themeFolder": ""
+}
